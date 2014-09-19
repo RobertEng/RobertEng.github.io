@@ -1,0 +1,235 @@
+body {
+	color: #ecf0f1; /* font color to Clouds White */
+}
+
+.slide {
+	width: 100%;
+}
+
+#homeSlide {
+	background-image: url('../img/MillikanLibraryDim.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center bottom;
+	height: 650px;
+
+}
+
+#title {
+	vertical-align: middle;
+	text-align: center;
+	margin: auto;
+	padding-top: 160px;
+}
+
+
+.home-title {
+	vertical-align: middle;
+	text-align: center;
+	display: inline-block;
+	/*width: 25%;*/
+	margin: auto;
+}
+
+#titleSHS {
+	padding-right: 40px;
+	vertical-align: bottom;
+}
+
+#titleCaltech {
+	padding-left: 40px;
+	vertical-align: bottom;
+}
+
+h6 {
+	margin-top: 0px;
+}
+
+h2 {
+	margin: 0px;
+}
+
+h3 {
+	margin-bottom: 0px;
+}
+
+.slide-title {
+	text-align: center;
+	/*color: #bdc3c7;*/
+}
+
+#projectSlide {
+	background-color: #2980b9; /* Belize Hole Blue */
+
+}
+
+#projectList {
+	/*padding-top: 30px;*/
+	max-width: 970px;
+}
+
+.project {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.p-created {
+	font-size: 14px;
+}
+
+.panel {
+	border-color: #0D2839;
+	margin-bottom: 0px;
+}
+
+img {
+	overflow: auto;
+	/*width: 100%;
+	min-width: 300px;*/ /*Perhaps fix this later */
+}
+
+h4 {
+	margin-top: 0px;
+}
+
+.project-left {
+	text-align: right;
+}
+
+.project-right {
+	text-align: left;
+	
+}
+
+p {
+	margin-bottom: 0px;
+}
+
+.icon {
+	margin-right: 10px;
+}
+
+.icon-github {
+	font-size: 28px;
+	color: black;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-github:hover {
+	color: #34495e;
+	cursor: pointer;
+}
+
+.icon-window {
+	font-size: 28px;
+	color: black;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-window:hover {
+	color: #c0392b; /* Pomegranate Red */
+	cursor: pointer;
+}
+
+.icon-dropbox {
+	font-size: 28px;
+	color: black;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-dropbox:hover {
+	color: #0062B2; /* Pomegranate Red */
+	cursor: pointer;
+}
+
+#moreSlide {
+	background-image: url('../img/hubble.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#moreContent {
+	padding-top: 20px;
+	padding-bottom: 100px;
+	text-align: center;
+}
+
+.more-left {
+	
+	/*margin-right: 20px;*/
+
+}
+
+.more-right {
+	/*margin-left: 20px;*/
+	text-align: left;
+}
+
+#resume {
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+#resume:hover {
+	color: #e67e22; /* Carrot Orange */
+	cursor: pointer;
+}
+
+#paper {
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+#paper:hover {
+	color: #e67e22; /* Carrot Orange */
+	cursor: pointer;
+}
+
+#moreContact {
+	padding-top: 20px;
+}
+
+.icon-white {
+	color: white;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.icon-facebook {
+	font-size: 28px;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-facebook:hover {
+	color: #3b5998; /* Facebook blue */
+	cursor: pointer;
+}
+
+.icon-google-plus {
+	font-size: 28px;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-google-plus:hover {
+	color: #2ecc71; /* Emerald Green */
+	cursor: pointer;
+}
+
+.icon-mail {
+	font-size: 28px;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-mail:hover {
+	color: #F90101; /* Google Red */
+	cursor: pointer;
+}
+
