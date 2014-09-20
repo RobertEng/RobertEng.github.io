@@ -33,11 +33,13 @@ body {
 
 #titleSHS {
 	padding-right: 40px;
+	padding-left: 40px;
 	vertical-align: bottom;
 }
 
 #titleCaltech {
 	padding-left: 40px;
+	padding-right: 40px;
 	vertical-align: bottom;
 }
 
