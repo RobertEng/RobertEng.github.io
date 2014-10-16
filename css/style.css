@@ -7,7 +7,7 @@ body {
 }
 
 #homeSlide {
-	background-image: url('../img/MillikanLibraryDim.jpg');
+	background-image: url('../img/MillikanLibraryDim.png');
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: center bottom;
@@ -173,6 +173,7 @@ p {
 }
 
 #resume {
+	color: white;
 	-webkit-transition: color 0.4s;
 	transition: color 0.4s;
 }
@@ -183,6 +184,7 @@ p {
 }
 
 #paper {
+	color: white;
 	-webkit-transition: color 0.4s;
 	transition: color 0.4s;
 }
