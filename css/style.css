@@ -149,6 +149,18 @@ p {
 	cursor: pointer;
 }
 
+.icon-paper {
+	font-size: 28px;
+	color: black;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-paper:hover {
+	color: #e67e22; /* Carrot Orange */
+	cursor: pointer;
+}
+
 #moreSlide {
 	background-image: url('../img/hubble.jpg');
 	background-size: cover;
