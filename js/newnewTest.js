@@ -1,25 +1,27 @@
 $(document).ready(function() {
 	$(".stage").click(function() {
 		console.log("stageClick called");
-		console.log(this);
-		console.log($(":visible"));
-		var elem = $(":visible");
+		// console.log(this);
+		// console.log($(this).children());
+		// console.log($($(this).children().find(":visible")[0]));
+		// console.log($($(this).children().find(":visible")[0]).parent($(".stage")));
+		// console.log($($(this).children().find(":visible")[0]).parent($(".stage")).siblings());
+		/* Get the visible stage we just clicked. */
+		var elem = $($($(this).children(":visible")[0]));
+		
+		// console.log(elem);
 
-			
-		console.log(elem.parent().children("#stage-2"));
-
-		if(elem.hasClass("stage-1")) {
-			elem.css("display", "none");
-			// $(elem.parent().children("#stage-2")[0])
-			elem.addClass("stage-2");
-		} else if(elem.hasClass("stage-2")) {
-			elem.removeClass("stage-2");
-			elem.addClass("stage-3");
-		} else {
-			elem.removeClass("stage-3");
-			elem.addClass("stage-1");
+		/* If there's other stuff to even show, hide the current visible one */
+		if(elem.siblings().length != 0) {
+			elem.hide();
 		}
 
+		if(elem.next().length == 0) { /* At the last stage-n. Loop back to front */
+			$(elem.siblings()[0]).show();
+		} else {
+			$(elem.next()).show();
+
+		}
 
 	});
 });
