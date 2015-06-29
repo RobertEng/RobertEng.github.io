@@ -10,6 +10,8 @@ body {
 	background-color: #BDD684;
 	font-family: 'Lato', sans-serif;
 
+	line-height: 1.2;
+
 }
 
 .stage-row {
@@ -18,7 +20,7 @@ body {
 	margin-right: auto;
 }
 
-.label {
+.title-label {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	text-align: center;
@@ -56,6 +58,20 @@ img {
 	height: 100%;
 	background-color: #E2F0D6;
 	border-radius: 50%;
+	border-color: #E2F0D6;
+	
+	-webkit-transition: border-color 0.2s; 
+    transition: border-color 0.2s;
+}
+
+.stage-1:hover {
+	border-width: 5px;
+	border-style: solid;
+	border-color: #F6FFE0;
+	height:290px; /* Readjust height bc border adds height (not width bc of reasons) */
+
+	/*-webkit-transition: border-color 0.2s; */
+    /*transition: border-color 0.2s;*/
 }
 
 .stage-2 {
@@ -101,6 +117,7 @@ h4, h5, h6 {
 
 p {
 	margin-top: 5px;
+	font-size: 16px;
 	-webkit-user-select: all;  /* Chrome all / Safari all */
  	-moz-user-select: all;     /* Firefox all */
 	-ms-user-select: all;      /* IE 10+ */
@@ -109,4 +126,98 @@ p {
 
 .footer, .header {
 	padding-bottom: 100px;
+}
+
+
+
+.icon-white {
+	color: white;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.icon-facebook {
+	font-size: 28px;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-facebook:hover {
+	color: #3b5998; /* Facebook blue */
+	cursor: pointer;
+}
+
+.icon-google-plus {
+	font-size: 28px;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-google-plus:hover {
+	color: #2ecc71; /* Emerald Green */
+	cursor: pointer;
+}
+
+.icon-mail {
+	font-size: 28px;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-mail:hover {
+	color: #F90101; /* Google Red */
+	cursor: pointer;
+}
+
+
+.icon {
+	margin-right: 10px;
+}
+
+.icon-github {
+	font-size: 28px;
+	color: black;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-github:hover {
+	color: #34495e;
+	cursor: pointer;
+}
+
+.icon-window {
+	font-size: 28px;
+	color: black;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-window:hover {
+	color: #c0392b; /* Pomegranate Red */
+	cursor: pointer;
+}
+
+.icon-dropbox {
+	font-size: 28px;
+	color: black;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-dropbox:hover {
+	color: #0062B2; /* Pomegranate Red */
+	cursor: pointer;
+}
+
+.icon-paper {
+	font-size: 28px;
+	color: black;
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-paper:hover {
+	color: #e67e22; /* Carrot Orange */
+	cursor: pointer;
 }
