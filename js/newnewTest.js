@@ -1,4 +1,22 @@
 $(document).ready(function() {
+	/* Change all the imgs with svg class to inline so I can recolor the svg */
+	// $("img.svg").each(function() {
+	// 	var url = $(this).attr("src");
+	// 	var classes = $(this).attr("class");
+	// 	var img = $(this);
+	// 	// go get the svg xml
+	// 	$.get(url, function(data) {
+	// 		var svg =  $(data).find("svg");
+	// 		svg.attr("height", "50");
+	// 		svg.attr("width", "50");
+	// 		svg.attr("viewBox", "0 0 1000 1000");
+	// 		svg.attr("preserveAspectRatio", "xMidYMid meet");
+	// 		svg.attr("class", classes);
+	// 		img.replaceWith(svg);
+
+	// 	});
+	// });
+
 	$(".stage").click(function() {
 		console.log("stageClick called");
 		// console.log(this);
@@ -24,8 +42,8 @@ $(document).ready(function() {
 				$(elem.next()).show();
 			}
 		}
-
-
 	});
+
+
 });
 
