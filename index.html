@@ -1,239 +1,393 @@
 <!DOCTYPE html>
 <html>
   <head>
-  	<meta charset="UTF-8">
-  	<meta name="description" content="Robert Eng Website">
-  	<meta name="keywords" content="Robert,Eng,Reng">
-  	<meta name="author" content="Robert Eng">
+    <meta charset="UTF-8">
+    <meta name="description" content="Robert Eng">
+    <meta name="keywords" content="Robert,Eng,Reng">
+    <meta name="author" content="Robert Eng">
 
     <title>Robert Eng</title>
 
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/flat-ui.min.css" />
-    <link rel="stylesheet" href="css/style.css" />
+    <!-- <link rel="stylesheet" href="css/bootstrap.min.css" /> -->
+    <!-- <link rel="stylesheet" href="css/flat-ui.min.css" /> -->
+    <!-- <link href='http://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'> -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
+    <!-- <link rel="stylesheet" href="css/flat-ui-glyphicons.css" /> -->
+
+    <link rel="stylesheet" href="css/newnewStyle.css" />
 
   </head>
 
   <body>
+  <div class="header"></div>
+  <!-- <div class="center-1">
+    <div class="stage stage-1"></div>
+  </div> -->
+  <div class="title-label">ROBERT ENG</div>
 
-  	<div id="homeSlide" class="slide">
-  		<div id="title">
-  			
-  			<div id="titleCaltech" class="home-title">
-  				<img src="img/caltechlogo.png" height="100px">
-  				<h6>Caltech</br>Class of 2018</h6>
-  			</div>
-  			
-  			<div id="titleName" class="home-title">
-	  			<img src="img/pic1.jpg" height="200px" style="border-radius: 50%;">
-	  			<h2>Robert Eng</h2>
-  			</div>
-  			
-  			<div id="titleSHS" class="home-title">
-  				<img src="img/falcon.png" height="100px">
-  				<h6>Saratoga HS</br>Class of 2014</h6>
-  			</div>
+  <div class="stage-row">
+    <div id="stageCaltech" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/caltechlogo.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h2>California Institute of Technology</h2><h4>Pasadena, CA</h4><h5>Class of 2018</h5>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Relevant Courses</h2>
+        <p>Computer Language Shop C Track</br>
+          Computer Science Research</br>
+          Computer Language Shop C++ Track</br>
+          Decidability and Tractability</br>
+          Computing Systems</br>
+        </p>
+      </div></div>
+    </div><!-- fight the inline-block space
+    --><div id="stageClick" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/reng_pic.png" style="height:290px; /* Leave room for border */ top:5px; left:5px; border-radius:50%;"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <p>Hey, I'm Robert Eng (I mostly go by Reng). For three more thrilling years, I will be pursuing a BS in Computer Science at Caltech, absorbing as much CS knowledge as my brain can handle in the process. I definitely love building things and have been doing so since the wee old age of 12. While I find sciences fascinating (why else would I be at Caltech), I take special interest in History and Philosophy and frankly whatever else floats my boat.
+      </div></div>
+      <div class="stage-3"><img class="stage-img" src="img/reng_white.png"></div>
+    </div><!--
+    --><div id="stageFalcon" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/falcon.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h2>Saratoga High School</h2><h4>Saratoga, CA</h4><h5>Class of 2014</h5>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Relevant Courses</h2>
+        <p>AP Computer Science</br>
+        EGPY Introduction to C Programming</br>
+        EPGY Programming in C - Algorithms and Techniques</br>
+        EPGY Compound Data Types and Advanced Topics in C</br>
+        </p>
+      </div></div>
+    </div>
+  </div>
+  <div class="stage-row">
+  <div class="title-label">EXPERIENCE</div>
+    <div id="stageTurtle" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/turtle.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>Speedy Packets</h1><h4>Network Software Intern</h4><h5>Summer 2015</h5>
+        <p>Tested the fairness and performance of different transport layer protocols such as TCP, Speedy TCP, and Google QUIC over a wide range of scenarios.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Languages</h2>
+        <p>Shell script</br>
+        Python</br>
+        </p>
+        <h2>Technologies</h2>
+        <p>Network Emulation with VMs</br>
+        Speedy Packets TCP</br>
+        Google QUIC</br>
+        Wireshark</br>
+        </p>
+      </div></div>
+    </div><!--
+    --><div id="stageLock" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/lock.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h3>Information Management Systems &amp; Services</h3><h4>Cybersecurity Intern</h4><h5>Summer 2015</h5>
+        <p>Worked with the cyber security group to protect against outside attacks on the internal Caltech network. Learned and practiced the different methods to hack into websites and servers. Detected suspicious login activity using scripts.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Languages</h2>
+        <p>Perl</br>
+        </p>
+        <h2>Technologies</h2>
+        <p>Security Compromised VMs</br>
+        Burp Proxy</br>
+        MySQL</br>
+        </p>
+      </div></div>
+    </div><!--
+    --><div id="stageDonut" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/donut.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h2>Caltech Donut Undergrad Site</h2><h4>Devteam Member</h4><h5>Summer 2015 - Present</h5>
+        <p>Part of the development team for the Caltech Undergraduate Website known as Donut. Donut provides several services from a Directory to elections. We are currently in the process of transferring the old website over to Flask.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Language</h2>
+        <p>Python</br>
+        </p>
+      </div></div>
+    </div><!--
+    --><div id="stageC" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/C.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>CS 11 C Track</h1><h4>Teaching Assistant</h4><h5>Winter 2015 - Present</h5>
+        <p>Assisted professor in teaching the fundamentals of C, particularly the intricacies of plugging memory leaks.  Graded homework and provided useful feedback.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Language</h2>
+        <p>C</br>
+        </p>
+      </div></div>
+    </div><!--
+    --><div id="stageMortar" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/mortar.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>Private Tutor</h1><h5>Spring 2014 - Summer 2014</h5>
+        <p>Tutored students in Computer Science as well as Competition Math, Calculus, Trigonometry, Algebra I, Physics, Chemistry, and all three subjects of the SAT.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Languages</h2>
+        <p>Java</br>
+        English</br>
+        </p>
+      </div></div>
+      </div><!--  
+    --><div id="stageHubble" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/hubble.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>UC Santa Cruz</h1><h4>Astronomy Research Intern</h4><h5>Summer 2013</h5>
+        <p>Developed an intuitive and interactive Google Maps web interface for deep field galaxy surveys for use by the astronomical community worldwide. With my mentor, authored a research paper describing the conception and development of the project for submission.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h3>See the Spaceship under Projects</h3>
+      </div></div>
+    </div>
+  </div>
+  <div class="title-label">PROJECTS</div>
+  <div class="stage-row">
+    <div id="stageHacktech" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/hacktech.png" style="height:250px; top:30px; left: 45px;"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>Hacktech 2015</h1><h5>2015</h5>
+        <p>While Hacktech 2015 never came to fruition, I had the opportunity to develop the website which would collect applications and registration for the event.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Languages</h2>
+        <p>EJS</br>
+        CSS</br>
+        Javascript</br>
+        </p>
+        <h2>Environment</h2>
+        <p>Node.js</br>
+        </p>
+        <h2>Technologies</h2>
+        <p>MySQL</br>
+        jQuery</br>
+        </p>
+      </div></div>
+    </div><!--
 
-  		</div>
-  	</div>
-  	<div id="projectSlide" class="slide">
-  		<div id="projectTitle" class="slide-title row">
-  			<h3>PROJECTS</h3>
-  		</div>
-  		<div id="projectList" class="container">
-  			
-  			<div class="row project">
-  				<div class="col-sm-6 project-left">
-  					<img class="panel" src="img/mei.jpg" width="100%" >
-  					<p class="p-created">created 2014 with David Eng</p>
-  					<span class="label label-warning">Nodejs</span>
-  					<span class="label label-warning">Bootstrap</span>
-  					<span class="label label-warning">Flat-UI</span>
-  					<span class="label label-warning">EJS</span>
-  					<span class="label label-warning">CSS</span>
-  					<span class="label label-warning">Javascript</span>
-  					<span class="label label-warning">JQuery</span>
-  					<span class="label label-warning">JSON</span>
-  					<span class="label label-warning">AJAX</span>
-  				</div>
-  				<div class="col-sm-6 project-right">
- 	 				<h4>MEI WRITING</h4>
-  					<p>Meilan Steimle sought to attract and retain new clients to her tutoring business.  The site promotes her writing services as well as enables her customers to schedule appointments through a Google Calendar.</p>
-  					<!-- <span class="fui-github icon icon-github" onclick="window.open('https://github.com/gnedivad/Meishrooms')"></span> -->
-  				</div>
-  			</div>
-  			<div class="row project">
-  				<div class="col-sm-6 project-left">
-  					<img class="panel" src="img/sociallife.jpg" width="100%" >
-  					<p class="p-created">created 2014</p>
-  					<span class="label label-warning">Nodejs</span>
-  					<span class="label label-warning">SocketIO</span>
-  					<span class="label label-warning">Bootstrap</span>
-  					<span class="label label-warning">Flat-UI</span>
-  					<span class="label label-warning">EJS</span>
-  					<span class="label label-warning">CSS</span>
-  					<span class="label label-warning">Javascript</span>
-  					<span class="label label-warning">JQuery</span>
-  					<span class="label label-warning">JSON</span>
-  					<span class="label label-warning">MongoDB</span>
+    --><div id="stageClock" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/clock.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h2>I Need A Social Life</h2><h5>2014</h5>
+        <p>Need help finding the times to meet up? INeedASocialLife offers an event planner and scheduler for this and changes the schedule in real time. More updates like carpooling and potluck to come.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h3>Languages + Frameworks</h3>
+        <p>EJS</br>
+        CSS</br>
+        Javascript</br>
+        Bootstrap</br>
+        Flat UI</br>
+        Socket.IO</br>
+        </p>
+        <h3>Technologies</h3>
+        <p>Node.js</br>
+        MongoDB</br>
+        jQuery</br>
+        JSON</br>
+        </p>
+      </div></div>
+    </div><!--
 
-  				</div>
-  				<div class="col-sm-6 project-right">
- 	 				<h4>I NEED A SOCIAL LIFE</h4>
-  					<p>Need help finding the times to meet up? INeedASocialLife offers an event planner and scheduler for this and changes the schedule in real time. More updates like carpooling and potluck to come.</p>
-  					<span class="fui-github icon icon-github" onclick="window.open('https://github.com/RobertEng/INeedASocialLife')"></span>
-            <span class="fui-document icon icon-paper" onclick="window.open('https://quiet-savannah-7829.herokuapp.com/')" target="_blank"></span>
-  				</div>
-  			</div>
-  			<div class="row project">
-  				<div class="col-sm-6 project-left">
-  					<img class="panel" src="img/golf.jpg" width="100%" >
-  					<p class="p-created">created 2014 with David Eng</p>
-  					<span class="label label-warning">Java</span>
-  				</div>
-  				<div class="col-sm-6 project-right">
- 	 				<h4>GOLF</h4>
-  					<p>To identify the optimal strategy for the card game Golf, we built a simulated tournament based on AI principles to evaluate various scenarios. To do this, I assisted in developing some AI players as well as cleaning up the program itself.</p>
-  					<span class="fui-github icon icon-github" onclick="window.open('https://github.com/gnedivad/Golf')"></span>
-  				</div>
-  			</div>
-  			<div class="row project">
-  				<div class="col-sm-6 project-left">
-  					<img class="panel" src="img/SciBowlSim.jpg" width="100%" >
-  					<p class="p-created">created 2014 at hackTech and two other hackathons</p>
-  					<span class="label label-warning">PHP</span>
-  					<span class="label label-warning">HTML</span>
-  					<span class="label label-warning">Bootstrap</span>
-  					<span class="label label-warning">CSS</span>
-  					<span class="label label-warning">Javascript</span>
-  					<span class="label label-warning">JQuery</span>
-  					<span class="label label-warning">XML</span>
-  					<span class="label label-warning">AJAX</span>
-  					<span class="label label-warning">MySQL</span>
-  					<span class="label label-warning">Python</span>
-  				</div>
-  				<div class="col-sm-6 project-right">
- 	 				<h4>SCIENCE BOWL SIMULATOR AND GENERATOR</h4>
-  					<p>This massive Science Bowl-themed project incorporates a Simulator to practice real rounds and a Generator which puts together sets of questions based on category. These questions are scraped from multiple sources as well as generated by interpreting information off Wikipedia.</p>
-  					<span class="fui-github icon icon-github" onclick="window.open('https://github.com/RobertEng/ScienceBowlSimulator')"></span>
-  				</div>
-  			</div>
-  			<div class="row project">
-  				<div class="col-sm-6 project-left">
-  					<img class="panel" src="img/tracer.jpg" width="100%" >
-  					<p class="p-created">created 2014 at LAHacks</p>
-  					<span class="label label-warning">Chrome Extension</span>
-  					<span class="label label-warning">JSON</span>
-   					<span class="label label-warning">Javascript</span>
-  					<span class="label label-warning">JQuery</span>
-  					<span class="label label-warning">HTML</span>
-  					<span class="label label-warning">CSS</span>
-  				</div>
-  				<div class="col-sm-6 project-right">
- 	 				<h4>TRACER</h4>
-  					<p>Ever hack and lose a Stackoverflow page you viewed 14 hours ago? This chrome extension remembers coding-related pages and associates them with each project. While not glamorous, it certainly is quite useful.</p>
-  					<span class="fui-github icon icon-github" onclick="window.open('https://github.com/RobertEng/Tracer')"></span>
-  				</div>
-  			</div>
-  			<div class="row project">
-  				<div class="col-sm-6 project-left">
-  					<img class="panel" src="img/guillermo.jpg" width="100%" >
-  					<p class="p-created">created 2013 at UC Santa Cruz Internship</p>
-  					<span class="label label-warning">PHP</span>
-  					<span class="label label-warning">HTML</span>
-  					<span class="label label-warning">CSS</span>
-  					<span class="label label-warning">Javascript</span>
-  					<span class="label label-warning">JQuery</span>
-  					<span class="label label-warning">XML</span>
-  					<span class="label label-warning">AJAX</span>
-  					<span class="label label-warning">MySQL</span>
-  					<span class="label label-warning">Google Maps API</span>
-  				</div>
-  				<div class="col-sm-6 project-right">
- 	 				<h4>INTERACTIVE DATABASE FOR DEEP FIELDS</h4>
-  					<p>Retrieving information from massive data sets can be a cumbersome process for the scientific community. To address, I built a Google Maps for galaxies. This project represented my first foray into webdev and affirmed my love of astronomy.</p>
-  					<!-- <span class="fui-window icon icon-window" onclick="window.open('https://arcoiris.ucolick.org/Rainbow_navigator_public/')"></span> -->
-  					<span class="fui-document icon icon-paper" onclick="window.open('Robert_Eng_paper.pdf')" target="_blank"></span>
-  				</div>
-  			</div>
-  			<div class="row project">
-  				<div class="col-sm-6 project-left">
-  					<img class="panel" src="img/midway.jpg" width="100%" >
-  					<p class="p-created">created 2013</p>
-  					<span class="label label-warning">Weebly</span>
-  				</div>
-  				<div class="col-sm-6 project-right">
- 	 				<h4>BATTLE OF MIDWAY</h4>
-  					<p>Created for the History Day competition, this website presents a unique thesis on the importance of the Battle of Midway in history. It was also a great exercise in website design and won State Finalist for individual website.</p>
-  					<span class="fui-window icon icon-window" onclick="window.open('http://60770341.nhd.weebly.com/')"></span>
-  				</div>
-  			</div>
-  			<div class="row project">
-  				<div class="col-sm-6 project-left">
-  					<img class="panel" src="img/risk.jpg" width="100%" >
-  					<p class="p-created">created 2012 in APCS with David Eng</p>
-  					<span class="label label-warning">Java</span>
-  				</div>
-  				<div class="col-sm-6 project-right">
- 	 				<h4>RISK</h4>
-  					<p>With aspirations in CS and world domination, this was built to emulate the board game Risk, complete with several maps as well as a computer opponent aptly named Stanley the Monkey.</p>
-  					<span class="fui-github icon icon-github" onclick="window.open('https://github.com/RobertEng/Risk')"></span>
-  					<span class="fui-dropbox icon icon-dropbox" onclick="window.open('https://www.dropbox.com/sh/55vdfti03sqkcv5/AADGkp3i0NkNCpMTTngkmXmHa?dl=0')"></span>
-  				</div>
-  			</div>
-  			<div class="row project">
-  				<div class="col-sm-6 project-left">
-  					<img class="panel" src="img/gameoflife.jpg" width="100%" >
-  					<p class="p-created">created 2011</p>
-  					<span class="label label-warning">C</span>
-  				</div>
-  				<div class="col-sm-6 project-right">
- 	 				<h4>GAME OF LIFE</h4>
-  					<p>This is a replica of the classic program Conway's Game of Life. While not the most complex, this life-changing project can be marked as the genesis of my endeavors in CS.</p>
-  					<span class="fui-github icon icon-github" onclick="window.open('https://github.com/RobertEng/GameofLife')"></span>
-  					<span class="fui-dropbox icon icon-dropbox" onclick="window.open('https://www.dropbox.com/s/sc96ocxwx9yuyqg/gameoflife.exe?dl=0')"></span>
-  				</div>
-  			</div>
-  			
-  		</div>
-  	</div>
-  	<div id="moreSlide" class="slide">
-		<div id="moreTitle" class="slide-title row">
-  			<h3>MORE</h3>
-  		</div>
-  		<div id="moreContent" class="container">
-	  		<div class="row">
-		  		<div class="col-sm-8 more-left">
-		  			<h4>About</h4>
-		  			<p>Heyo! I’m Robert! I’m a freshman starting his grand adventure at Caltech and will graduate in 2018. Achievements include attending 6 hackathons from which my entire tshirt wardrobe originates, perfecting the making of quesadillas, memorizing the periodic table, and styling my hair to stand up via antigravity. Thanks for visiting!</p>
-		  		</div>
-		  		<div class="col-sm-4 more-right">
-		  			<a href="Robert_Eng_resume.pdf" target="_blank">
-			  			<div id="resume">
-				  			<span class="fui-list-bulleted"></span>
-				  			<span>Resume</span>
-				  		</div>
-			  		</a>
-			  		<a href="Robert_Eng_paper.pdf" target="_blank">
-				  		<div id="paper">
-				  			<span class="fui-document"></span>
-				  			<span>Research Paper</span>
-				  		</div>
-				  	</a>
-		  		</div>
-		  	</div>
-	  		<div id="moreContact">
-	  			<!-- <span class="fui-mail icon icon-white icon-mail" onclick="'mailto:googlypantsroberteng@gmail.com'"></span> -->
-	  			<span class="fui-github icon icon-white icon-github" onclick="window.open('https://github.com/RobertEng')"></span>
-	  			<span class="fui-facebook icon icon-white icon-facebook" onclick="window.open('https://www.facebook.com/robert.eng.96')"></span>
-	  			<!-- <span class="fui-google-plus icon icon-white icon-google-plus" onclick="window.open('http://www.google.com')"></span> -->
-  			</div>
-  		</div>
-  	</div>
+    --><div id="stagePencil" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/pencil.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>Mei Writing</h1><h5>2014 with David Eng</h5>
+        <p>Meilan Steimle sought to attract and retain new clients to her tutoring business. The site promotes her writing services as well as enables her customers to schedule appointments through a Google Calendar.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h3>Languages + Frameworks</h3>
+        <p>EJS</br>
+        CSS</br>
+        Javascript</br>
+        Bootstrap</br>
+        Flat UI</br>
+        </p>
+        <h3>Technologies</h3>
+        <p>Node.js</br>
+        MongoDB</br>
+        jQuery</br>
+        AJAX</br>
+        JSON</br>
+        </p>
+      </div></div>
+    </div><!--
+
+    --><div id="stageCards" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/cards.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>Golf</h1><h5>2014 with David Eng</h5>
+        <p>To identify the optimal strategy for the card game Golf, we built a simulated tournament based on AI principles to evaluate various scenarios. To do this, I assisted in developing some AI players as well as cleaning up the program itself.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Language</h2>
+        <p>Java</br>
+        </p>
+      </div></div>
+    </div><!--
+
+    --><div id="stageFlask" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/flask.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h3>Science Bowl Simulator and Generator</h3><h5>2014 at Hacktech</h5>
+        <p>This massive Science Bowl-themed project incorporates a Simulator to practice real rounds and a Generator which puts together sets of questions based on category. These questions are scraped from multiple sources as well as generated by interpreting information off Wikipedia.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h3>Languages + Frameworks</h3>
+        <p>HTML</br>
+        CSS</br>
+        Javascript</br>
+        Bootstrap</br>
+        PHP</br>
+        XML</br>
+        Python</br>
+        </p>
+        <h3>Technologies</h3>
+        <p>MySQL</br>
+        jQuery</br>
+        AJAX</br>
+        </p>
+      </div></div>
+    </div><!--
+
+    --><div id="stageScope" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/scope.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>Tracer</h1><h5>2014 at LAHacks</h5>
+        <p>Ever hack and lose a Stackoverflow page you viewed 14 hours ago? This chrome extension remembers coding-related pages and associates them with each project. While not glamorous, it certainly is quite useful.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Languages</h2>
+        <p>HTML</br>
+        CSS</br>
+        Javascript</br>
+        </p>
+        <h2>Technologies</h2>
+        <p>JSON</br>
+        jQuery</br>
+        Chrome Extension</br>
+        </p>
+      </div></div>
+    </div><!--
+
+    --><div id="stageSpaceship" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/spaceship.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h2>Interactive Galactic Database</h2><h5>Summer 2013 at UCSC internship</h5>
+        <p>Retrieving information from massive data sets can be a cumbersome process for the scientific community. To address, I built a Google Maps for galaxies. This project represented my first foray into webdev and affirmed my love of astronomy.<p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Languages</h2>
+        <p>HTML</br>
+        CSS</br>
+        Javascript</br>
+        PHP</br>
+        XML</br>
+        </p>
+        <h2>Technologies</h2>
+        <p>MySQL</br>
+        jQuery</br>
+        AJAX</br>
+        Google Maps API</br>
+        </p>
+      </div></div>
+    </div><!--
+
+    --><div id="stageZero" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/zero.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>Battle of Midway</h1><h5>2013</h5>
+        <p>Created for the History Day competition, this website presents a unique thesis on the importance of the Battle of Midway in history. It was also a great exercise in website design and won State Finalist for individual website.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Service</h2>
+        <p>Weebly</br>
+        </p>
+      </div></div>
+    </div><!--
+
+    --><div id="stageEarth" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/earth.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>RISK</h1><h5>2012 with David Eng</h5>
+        <p>With aspirations in CS and world domination, this was built to emulate the board game Risk, complete with several maps as well as a computer opponent aptly named Stanley the Monkey.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Language</h2>
+        <p>Java</br>
+        </p>
+      </div></div>
+    </div><!--
+
+
+
+    --><div id="stagePlant" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/plant.png"></div>
+      <div class="stage-2"><div class="inner-stage">
+        <h1>Game of Life</h1><h5>2011</h5>
+        <p>This is a replica of the classic program Conway's Game of Life. While not the most complex, this life-changing project can be marked as the genesis of my endeavors in CS.</p>
+      </div></div>
+      <div class="stage-3"><div class="inner-stage">
+        <h2>Language</h2>
+        <p>C</br>
+        </p>
+      </div></div>
+    </div>
+  </div>
+  <div class="title-label">DOCUMENTS</div>
+  <div class="stage-row">
+    <a id="stageResearch" class="stage" href="Robert_Eng_paper.pdf" target="_blank">
+      <div class="stage-1"><img class="stage-img" src="img/research.png"></div>
+    </a>
+    <a id="stageResume" class="stage" href="Robert_Eng_resume.pdf" target="_blank">
+      <div class="stage-1"><img class="stage-img" src="img/resume.png"></div>
+    </a>
+
+<!-- <a href="Robert_Eng_paper.pdf" target="_blank">
+              <div id="paper">
+                <span class="fui-document"></span>
+                <span>Research Paper</span>
+              </div>
+            </a> -->
+
+  </div>
+  <div class="title-label">CONTACT</div>
+  <!-- <div class="stage-row">
+    <div id="stageEarth" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/earth.png"></div>
+    </div> --><!--
+    --><!-- <div id="stageSaturn" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/saturn.png"></div>
+    </div> --><!--
+    --><!-- <div id="stageCalendar" class="stage">
+      <div class="stage-1"><img class="stage-img" src="img/calendar.png"></div>
+    </div>
+  </div> -->
+
+  <div class="stage-row" style="text-align:center;">
+      <!-- <img src="img/svg/dropbox.svg" class="svg" alt="dropbox"> -->
+      <!-- <img src="img/svg/dropbox.svg" class="svg icon icon-dropbox" alt="dropbox"> -->
+      <div class="icon icon-mail icon-bottom" onclick="window.open('mailto:reng@caltech.edu');"></div>
+      <div class="icon icon-github icon-bottom" onclick="window.open('https://github.com/RobertEng');"></div>
+      <div class="icon icon-facebook2 icon-bottom" onclick="window.open('https://www.facebook.com/robert.eng.96');"></div>
+<!--       <div class="icon icon-linkedin icon-bottom" onclick="window.open('');"></div>
+ -->
+  </div>
+
+  <div class="footer"></div>
 
   <script src="js/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/flat-ui.min.js"></script>
+<!-- <script src="js/bootstrap.min.js"></script> --> <!-- Needed for the fb, github, etc icons -->
+<!--  <script src="js/flat-ui.min.js"></script> -->
+  <script src="js/newnewTest.js"></script>
 
   </body>
 </html>
