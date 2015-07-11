@@ -133,6 +133,19 @@ p {
 	/*user-select: all;*/
 }
 
+.singlet {
+	/* There's a fancier way to do this, but this is faster. */
+	position:absolute;
+	top:210px;
+	left: 210px;
+}
+
+.doublet {
+	position: absolute;
+	top: 140px;
+	left: 210px;
+}
+
 .footer, .header {
 	padding-bottom: 100px;
 }
@@ -187,7 +200,15 @@ p {
 	cursor: pointer;
 }
 
+.icon-play2 {
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
 
+.icon-play2:hover {
+	color: #01FF70;
+	cursor: pointer;
+}
 
 .icon-github {
 	-webkit-transition: color 0.4s;
@@ -215,7 +236,7 @@ p {
 }
 
 .icon-dropbox:hover {
-	color: #0062B2;
+	color: #007EE5;
 	cursor: pointer;
 }
 
