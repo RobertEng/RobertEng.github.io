@@ -240,6 +240,17 @@ p {
 	cursor: pointer;
 }
 
+.icon-linkedin {
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-linkedin:hover {
+	color: #0077B5;
+	cursor: pointer;
+}
+
+
 .icon-paper {
 	-webkit-transition: color 0.4s;
 	transition: color 0.4s;
