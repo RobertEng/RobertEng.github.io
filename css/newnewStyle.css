@@ -249,6 +249,16 @@ p.font-small {
 	cursor: pointer;
 }
 
+.icon-file-text2 {
+	-webkit-transition: color 0.4s;
+	transition: color 0.4s;
+}
+
+.icon-file-text2:hover {
+	color: #01FF70;
+	cursor: pointer;
+}
+
 .icon-github {
 	-webkit-transition: color 0.4s;
 	transition: color 0.4s;
