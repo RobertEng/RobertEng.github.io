@@ -1,0 +1,868 @@
+Title,STEM
+Chief Executives,0
+General and Operations Managers,0
+Legislators,0
+Advertising and Promotions Managers,0
+Marketing Managers,0
+Sales Managers,0
+Public Relations Managers,0
+Fundraising Managers,0
+Administrative Services Managers,0
+Facilities Managers,0
+Computer and Information Systems Managers,1
+Financial Managers,1
+Industrial Production Managers,1
+Purchasing Managers,0
+"Transportation, Storage, and Distribution Managers",0
+Compensation and Benefits Managers,0
+Human Resources Managers,0
+Training and Development Managers,0
+"Farmers, Ranchers, and Other Agricultural Managers",0
+Construction Managers,0
+"Education and Childcare Administrators, Preschool and Daycare",0
+"Education Administrators, Kindergarten through Secondary",0
+"Education Administrators, Postsecondary",0
+"Education Administrators, All Other",0
+Architectural and Engineering Managers,1
+Food Service Managers,0
+Gambling Managers,0
+"Entertainment and Recreation Managers, Except Gambling",0
+Lodging Managers,0
+Medical and Health Services Managers,1
+Natural Sciences Managers,1
+Postmasters and Mail Superintendents,0
+"Property, Real Estate, and Community Association Managers",0
+Social and Community Service Managers,0
+Emergency Management Directors,0
+Funeral Home Managers,0
+"Personal Service Managers, All Other",0
+"Managers, All Other",0
+"Agents and Business Managers of Artists, Performers, and Athletes",0
+"Buyers and Purchasing Agents, Farm Products",0
+"Wholesale and Retail Buyers, Except Farm Products",0
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",0
+"Claims Adjusters, Examiners, and Investigators",0
+"Insurance Appraisers, Auto Damage",0
+Compliance Officers,0
+Cost Estimators,0
+Human Resources Specialists,0
+Farm Labor Contractors,0
+Labor Relations Specialists,0
+Logisticians,0
+Project Management Specialists,0
+Management Analysts,0
+"Meeting, Convention, and Event Planners",0
+Fundraisers,0
+"Compensation, Benefits, and Job Analysis Specialists",0
+Training and Development Specialists,0
+Market Research Analysts and Marketing Specialists,0
+"Business Operations Specialists, All Other",0
+Accountants and Auditors,0
+Appraisers of Personal and Business Property,0
+Appraisers and Assessors of Real Estate,0
+Budget Analysts,0
+Credit Analysts,0
+Financial and Investment Analysts,0
+Personal Financial Advisors,0
+Insurance Underwriters,0
+Financial Risk Specialists,0
+Financial Examiners,0
+Credit Counselors,0
+Loan Officers,0
+"Tax Examiners and Collectors, and Revenue Agents",0
+Tax Preparers,0
+"Financial Specialists, All Other",0
+Computer Systems Analysts,1
+Information Security Analysts,1
+Computer and Information Research Scientists,1
+Computer Network Support Specialists,0
+Computer User Support Specialists,0
+Computer Network Architects,1
+Database Administrators,1
+Database Architects,1
+Network and Computer Systems Administrators,0
+Computer Programmers,1
+Software Developers,1
+Software Quality Assurance Analysts and Testers,1
+Web Developers,1
+Web and Digital Interface Designers,1
+"Computer Occupations, All Other",1
+Actuaries,0
+Mathematicians,1
+Operations Research Analysts,1
+Statisticians,1
+Data Scientists,1
+"Mathematical Science Occupations, All Other",1
+"Architects, Except Landscape and Naval",0
+Landscape Architects,0
+Cartographers and Photogrammetrists,0
+Surveyors,0
+Aerospace Engineers,1
+Agricultural Engineers,1
+Bioengineers and Biomedical Engineers,1
+Chemical Engineers,1
+Civil Engineers,1
+Computer Hardware Engineers,1
+Electrical Engineers,1
+"Electronics Engineers, Except Computer",1
+Environmental Engineers,1
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",1
+Industrial Engineers,1
+Marine Engineers and Naval Architects,1
+Materials Engineers,1
+Mechanical Engineers,1
+"Mining and Geological Engineers, Including Mining Safety Engineers",1
+Nuclear Engineers,1
+Petroleum Engineers,1
+"Engineers, All Other",1
+Architectural and Civil Drafters,0
+Electrical and Electronics Drafters,0
+Mechanical Drafters,0
+"Drafters, All Other",0
+Aerospace Engineering and Operations Technologists and Technicians,0
+Civil Engineering Technologists and Technicians,0
+Electrical and Electronic Engineering Technologists and Technicians,0
+Electro-Mechanical and Mechatronics Technologists and Technicians,0
+Environmental Engineering Technologists and Technicians,0
+Industrial Engineering Technologists and Technicians,0
+Mechanical Engineering Technologists and Technicians,0
+Calibration Technologists and Technicians,0
+"Engineering Technologists and Technicians, Except Drafters, All Other",0
+Surveying and Mapping Technicians,0
+Animal Scientists,1
+Food Scientists and Technologists,1
+Soil and Plant Scientists,1
+Biochemists and Biophysicists,1
+Microbiologists,1
+Zoologists and Wildlife Biologists,1
+"Biological Scientists, All Other",1
+Conservation Scientists,1
+Foresters,1
+Epidemiologists,1
+"Medical Scientists, Except Epidemiologists",1
+"Life Scientists, All Other",1
+Astronomers,1
+Physicists,1
+Atmospheric and Space Scientists,1
+Chemists,1
+Materials Scientists,1
+"Environmental Scientists and Specialists, Including Health",1
+"Geoscientists, Except Hydrologists and Geographers",1
+Hydrologists,1
+"Physical Scientists, All Other",1
+Economists,0
+Survey Researchers,0
+Industrial-Organizational Psychologists,0
+Clinical and Counseling Psychologists,0
+School Psychologists,0
+"Psychologists, All Other",0
+Sociologists,0
+Urban and Regional Planners,0
+Anthropologists and Archeologists,0
+Geographers,0
+Historians,0
+Political Scientists,0
+"Social Scientists and Related Workers, All Other",0
+Agricultural Technicians,0
+Food Science Technicians,0
+Biological Technicians,0
+Chemical Technicians,0
+"Environmental Science and Protection Technicians, Including Health",0
+"Geological Technicians, Except Hydrologic Technicians",0
+Hydrologic Technicians,0
+Nuclear Technicians,0
+Social Science Research Assistants,0
+Forest and Conservation Technicians,0
+Forensic Science Technicians,0
+"Life, Physical, and Social Science Technicians, All Other",0
+Occupational Health and Safety Specialists,0
+Occupational Health and Safety Technicians,0
+Substance Abuse and Behavioral Disorder Counselors,0
+"Educational, Guidance, and Career Counselors and Advisors",0
+Marriage and Family Therapists,0
+Mental Health Counselors,0
+Rehabilitation Counselors,0
+"Counselors, All Other",0
+"Child, Family, and School Social Workers",0
+Healthcare Social Workers,0
+Mental Health and Substance Abuse Social Workers,0
+"Social Workers, All Other",0
+Health Education Specialists,0
+Probation Officers and Correctional Treatment Specialists,0
+Social and Human Service Assistants,0
+Community Health Workers,0
+"Community and Social Service Specialists, All Other",0
+Clergy,0
+"Directors, Religious Activities and Education",0
+"Religious Workers, All Other",0
+Lawyers,0
+Judicial Law Clerks,0
+"Administrative Law Judges, Adjudicators, and Hearing Officers",0
+"Arbitrators, Mediators, and Conciliators",0
+"Judges, Magistrate Judges, and Magistrates",0
+Paralegals and Legal Assistants,0
+"Title Examiners, Abstractors, and Searchers",0
+"Legal Support Workers, All Other",0
+"Business Teachers, Postsecondary",0
+"Computer Science Teachers, Postsecondary",0
+"Mathematical Science Teachers, Postsecondary",0
+"Architecture Teachers, Postsecondary",0
+"Engineering Teachers, Postsecondary",0
+"Agricultural Sciences Teachers, Postsecondary",0
+"Biological Science Teachers, Postsecondary",0
+"Forestry and Conservation Science Teachers, Postsecondary",0
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",0
+"Chemistry Teachers, Postsecondary",0
+"Environmental Science Teachers, Postsecondary",0
+"Physics Teachers, Postsecondary",0
+"Anthropology and Archeology Teachers, Postsecondary",0
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",0
+"Economics Teachers, Postsecondary",0
+"Geography Teachers, Postsecondary",0
+"Political Science Teachers, Postsecondary",0
+"Psychology Teachers, Postsecondary",0
+"Sociology Teachers, Postsecondary",0
+"Social Sciences Teachers, Postsecondary, All Other",0
+"Health Specialties Teachers, Postsecondary",0
+"Nursing Instructors and Teachers, Postsecondary",0
+"Education Teachers, Postsecondary",0
+"Library Science Teachers, Postsecondary",0
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",0
+"Law Teachers, Postsecondary",0
+"Social Work Teachers, Postsecondary",0
+"Art, Drama, and Music Teachers, Postsecondary",0
+"Communications Teachers, Postsecondary",0
+"English Language and Literature Teachers, Postsecondary",0
+"Foreign Language and Literature Teachers, Postsecondary",0
+"History Teachers, Postsecondary",0
+"Philosophy and Religion Teachers, Postsecondary",0
+"Family and Consumer Sciences Teachers, Postsecondary",0
+"Recreation and Fitness Studies Teachers, Postsecondary",0
+"Career/Technical Education Teachers, Postsecondary",0
+"Postsecondary Teachers, All Other",0
+"Preschool Teachers, Except Special Education",0
+"Kindergarten Teachers, Except Special Education",0
+"Elementary School Teachers, Except Special Education",0
+"Middle School Teachers, Except Special and Career/Technical Education",0
+"Career/Technical Education Teachers, Middle School",0
+"Secondary School Teachers, Except Special and Career/Technical Education",0
+"Career/Technical Education Teachers, Secondary School",0
+"Special Education Teachers, Preschool",0
+"Special Education Teachers, Kindergarten",0
+"Special Education Teachers, Elementary School",0
+"Special Education Teachers, Middle School",0
+"Special Education Teachers, Secondary School",0
+"Special Education Teachers, All Other",0
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0
+Self-Enrichment Teachers,0
+"Substitute Teachers, Short-Term",0
+Tutors,0
+"Teachers and Instructors, All Other",0
+Archivists,0
+Curators,0
+Museum Technicians and Conservators,0
+Librarians and Media Collections Specialists,0
+Library Technicians,0
+Farm and Home Management Educators,0
+Instructional Coordinators,0
+"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",0
+"Teaching Assistants, Special Education",0
+"Teaching Assistants, Postsecondary",0
+"Teaching Assistants, All Other",0
+"Educational Instruction and Library Workers, All Other",0
+Art Directors,0
+Craft Artists,0
+"Fine Artists, Including Painters, Sculptors, and Illustrators",0
+Special Effects Artists and Animators,0
+"Artists and Related Workers, All Other",0
+Commercial and Industrial Designers,0
+Fashion Designers,0
+Floral Designers,0
+Graphic Designers,0
+Interior Designers,0
+Merchandise Displayers and Window Trimmers,0
+Set and Exhibit Designers,0
+"Designers, All Other",0
+Actors,0
+Producers and Directors,0
+Athletes and Sports Competitors,0
+Coaches and Scouts,0
+"Umpires, Referees, and Other Sports Officials",0
+Dancers,0
+Choreographers,0
+Music Directors and Composers,0
+Musicians and Singers,0
+"Disc Jockeys, Except Radio",0
+"Entertainers and Performers, Sports and Related Workers, All Other",0
+Broadcast Announcers and Radio Disc Jockeys,0
+"News Analysts, Reporters, and Journalists",0
+Public Relations Specialists,0
+Editors,0
+Technical Writers,0
+Writers and Authors,0
+Interpreters and Translators,0
+Court Reporters and Simultaneous Captioners,0
+"Media and Communication Workers, All Other",0
+Audio and Video Technicians,0
+Broadcast Technicians,0
+Sound Engineering Technicians,0
+Lighting Technicians,0
+Photographers,0
+"Camera Operators, Television, Video, and Film",0
+Film and Video Editors,0
+"Media and Communication Equipment Workers, All Other",0
+Chiropractors,1
+"Dentists, General",1
+Oral and Maxillofacial Surgeons,1
+Orthodontists,1
+Prosthodontists,1
+"Dentists, All Other Specialists",1
+Dietitians and Nutritionists,1
+Optometrists,1
+Pharmacists,1
+Physician Assistants,1
+Podiatrists,1
+Occupational Therapists,1
+Physical Therapists,1
+Radiation Therapists,1
+Recreational Therapists,1
+Respiratory Therapists,1
+Speech-Language Pathologists,1
+Exercise Physiologists,1
+"Therapists, All Other",1
+Veterinarians,1
+Registered Nurses,0
+Nurse Anesthetists,0
+Nurse Midwives,0
+Nurse Practitioners,0
+Audiologists,1
+Anesthesiologists,1
+Cardiologists,1
+Dermatologists,1
+Emergency Medicine Physicians,1
+Family Medicine Physicians,1
+General Internal Medicine Physicians,1
+Neurologists,1
+Obstetricians and Gynecologists,1
+"Pediatricians, General",1
+"Physicians, Pathologists",1
+Psychiatrists,1
+Radiologists,1
+"Physicians, All Other",1
+"Ophthalmologists, Except Pediatric",1
+"Orthopedic Surgeons, Except Pediatric",1
+Pediatric Surgeons,1
+"Surgeons, All Other",1
+Acupuncturists,0
+Dental Hygienists,0
+"Healthcare Diagnosing or Treating Practitioners, All Other",0
+Medical and Clinical Laboratory Technologists,0
+Medical and Clinical Laboratory Technicians,0
+Cardiovascular Technologists and Technicians,0
+Diagnostic Medical Sonographers,0
+Nuclear Medicine Technologists,0
+Radiologic Technologists and Technicians,0
+Magnetic Resonance Imaging Technologists,0
+Medical Dosimetrists,0
+Emergency Medical Technicians,0
+Paramedics,1
+Dietetic Technicians,0
+Pharmacy Technicians,0
+Psychiatric Technicians,0
+Surgical Technologists,0
+Veterinary Technologists and Technicians,0
+Ophthalmic Medical Technicians,0
+Licensed Practical and Licensed Vocational Nurses,0
+Medical Records Specialists,0
+"Opticians, Dispensing",0
+Orthotists and Prosthetists,0
+Hearing Aid Specialists,0
+"Health Technologists and Technicians, All Other",0
+Health Information Technologists and Medical Registrars,0
+Athletic Trainers,0
+Genetic Counselors,0
+Surgical Assistants,0
+"Healthcare Practitioners and Technical Workers, All Other",0
+Home Health Aides,0
+Personal Care Aides,0
+Nursing Assistants,0
+Orderlies,0
+Psychiatric Aides,0
+Occupational Therapy Assistants,0
+Occupational Therapy Aides,0
+Physical Therapist Assistants,0
+Physical Therapist Aides,0
+Massage Therapists,0
+Dental Assistants,0
+Medical Assistants,0
+Medical Equipment Preparers,0
+Medical Transcriptionists,0
+Pharmacy Aides,0
+Veterinary Assistants and Laboratory Animal Caretakers,0
+Phlebotomists,0
+"Healthcare Support Workers, All Other",0
+First-Line Supervisors of Correctional Officers,0
+First-Line Supervisors of Police and Detectives,0
+First-Line Supervisors of Firefighting and Prevention Workers,0
+First-Line Supervisors of Security Workers,0
+"First-Line Supervisors of Protective Service Workers, All Other",0
+Firefighters,0
+Fire Inspectors and Investigators,0
+Forest Fire Inspectors and Prevention Specialists,0
+Bailiffs,0
+Correctional Officers and Jailers,0
+Detectives and Criminal Investigators,0
+Fish and Game Wardens,0
+Parking Enforcement Workers,0
+Police and Sheriff’s Patrol Officers,0
+Transit and Railroad Police,0
+Animal Control Workers,0
+Private Detectives and Investigators,0
+Gambling Surveillance Officers and Gambling Investigators,0
+Security Guards,0
+Crossing Guards and Flaggers,0
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0
+Transportation Security Screeners,0
+School Bus Monitors,0
+"Protective Service Workers, All Other",0
+Chefs and Head Cooks,0
+First-Line Supervisors of Food Preparation and Serving Workers,0
+"Cooks, Fast Food",0
+"Cooks, Institution and Cafeteria",0
+"Cooks, Private Household",0
+"Cooks, Restaurant",0
+"Cooks, Short Order",0
+"Cooks, All Other",0
+Food Preparation Workers,0
+Bartenders,0
+Fast Food and Counter Workers,0
+Waiters and Waitresses,0
+"Food Servers, Nonrestaurant",0
+Dining Room and Cafeteria Attendants and Bartender Helpers,0
+Dishwashers,0
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0
+"Food Preparation and Serving Related Workers, All Other",0
+First-Line Supervisors of Housekeeping and Janitorial Workers,0
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0
+Maids and Housekeeping Cleaners,0
+"Building Cleaning Workers, All Other",0
+Pest Control Workers,0
+Landscaping and Groundskeeping Workers,0
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0
+Tree Trimmers and Pruners,0
+"Grounds Maintenance Workers, All Other",0
+First-Line Supervisors of Gambling Services Workers,0
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",0
+First-Line Supervisors of Personal Service Workers,0
+Animal Trainers,0
+Animal Caretakers,0
+Gambling Dealers,0
+Gambling and Sports Book Writers and Runners,0
+"Gambling Service Workers, All Other",0
+Motion Picture Projectionists,0
+"Ushers, Lobby Attendants, and Ticket Takers",0
+Amusement and Recreation Attendants,0
+Costume Attendants,0
+"Locker Room, Coatroom, and Dressing Room Attendants",0
+"Entertainment Attendants and Related Workers, All Other",0
+Embalmers,0
+Crematory Operators,0
+Funeral Attendants,0
+"Morticians, Undertakers, and Funeral Arrangers",0
+Barbers,0
+"Hairdressers, Hairstylists, and Cosmetologists",0
+"Makeup Artists, Theatrical and Performance",0
+Manicurists and Pedicurists,0
+Shampooers,0
+Skincare Specialists,0
+Baggage Porters and Bellhops,0
+Concierges,0
+Tour Guides and Escorts,0
+Travel Guides,0
+Childcare Workers,0
+Exercise Trainers and Group Fitness Instructors,0
+Recreation Workers,0
+Residential Advisors,0
+"Personal Care and Service Workers, All Other",0
+First-Line Supervisors of Retail Sales Workers,0
+First-Line Supervisors of Non-Retail Sales Workers,0
+Cashiers,0
+Gambling Change Persons and Booth Cashiers,0
+Counter and Rental Clerks,0
+Parts Salespersons,0
+Retail Salespersons,0
+Advertising Sales Agents,0
+Insurance Sales Agents,0
+"Securities, Commodities, and Financial Services Sales Agents",0
+Travel Agents,0
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",0
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0
+Demonstrators and Product Promoters,0
+Models,0
+Real Estate Brokers,0
+Real Estate Sales Agents,0
+Sales Engineers,0
+Telemarketers,0
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0
+"Sales and Related Workers, All Other",0
+First-Line Supervisors of Office and Administrative Support Workers,0
+"Switchboard Operators, Including Answering Service",0
+Telephone Operators,0
+"Communications Equipment Operators, All Other",0
+Bill and Account Collectors,0
+Billing and Posting Clerks,0
+"Bookkeeping, Accounting, and Auditing Clerks",0
+Gambling Cage Workers,0
+Payroll and Timekeeping Clerks,0
+Procurement Clerks,0
+Tellers,0
+"Financial Clerks, All Other",0
+Brokerage Clerks,0
+Correspondence Clerks,0
+"Court, Municipal, and License Clerks",0
+"Credit Authorizers, Checkers, and Clerks",0
+Customer Service Representatives,0
+"Eligibility Interviewers, Government Programs",0
+File Clerks,0
+"Hotel, Motel, and Resort Desk Clerks",0
+"Interviewers, Except Eligibility and Loan",0
+"Library Assistants, Clerical",0
+Loan Interviewers and Clerks,0
+New Accounts Clerks,0
+Order Clerks,0
+"Human Resources Assistants, Except Payroll and Timekeeping",0
+Receptionists and Information Clerks,0
+Reservation and Transportation Ticket Agents and Travel Clerks,0
+"Information and Record Clerks, All Other",0
+Cargo and Freight Agents,0
+Couriers and Messengers,0
+Public Safety Telecommunicators,0
+"Dispatchers, Except Police, Fire, and Ambulance",0
+"Meter Readers, Utilities",0
+Postal Service Clerks,0
+Postal Service Mail Carriers,0
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0
+"Production, Planning, and Expediting Clerks",0
+"Shipping, Receiving, and Inventory Clerks",0
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0
+Executive Secretaries and Executive Administrative Assistants,0
+Legal Secretaries and Administrative Assistants,0
+Medical Secretaries and Administrative Assistants,0
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0
+Data Entry Keyers,0
+Word Processors and Typists,0
+Desktop Publishers,0
+Insurance Claims and Policy Processing Clerks,0
+"Mail Clerks and Mail Machine Operators, Except Postal Service",0
+"Office Clerks, General",0
+"Office Machine Operators, Except Computer",0
+Proofreaders and Copy Markers,0
+Statistical Assistants,0
+"Office and Administrative Support Workers, All Other",0
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0
+Agricultural Inspectors,0
+Animal Breeders,0
+"Graders and Sorters, Agricultural Products",0
+Agricultural Equipment Operators,0
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",0
+"Agricultural Workers, All Other",0
+Fishing and Hunting Workers,0
+Forest and Conservation Workers,0
+Fallers,0
+Logging Equipment Operators,0
+Log Graders and Scalers,0
+"Logging Workers, All Other",0
+First-Line Supervisors of Construction Trades and Extraction Workers,0
+Boilermakers,0
+Brickmasons and Blockmasons,0
+Stonemasons,0
+Carpenters,0
+Carpet Installers,0
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",0
+Floor Sanders and Finishers,0
+Tile and Stone Setters,0
+Cement Masons and Concrete Finishers,0
+Terrazzo Workers and Finishers,0
+Construction Laborers,0
+"Paving, Surfacing, and Tamping Equipment Operators",0
+Pile Driver Operators,0
+Operating Engineers and Other Construction Equipment Operators,0
+Drywall and Ceiling Tile Installers,0
+Tapers,0
+Electricians,0
+Glaziers,0
+"Insulation Workers, Floor, Ceiling, and Wall",0
+"Insulation Workers, Mechanical",0
+"Painters, Construction and Maintenance",0
+Paperhangers,0
+Pipelayers,0
+"Plumbers, Pipefitters, and Steamfitters",0
+Plasterers and Stucco Masons,0
+Reinforcing Iron and Rebar Workers,0
+Roofers,0
+Sheet Metal Workers,0
+Structural Iron and Steel Workers,0
+Solar Photovoltaic Installers,0
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0
+Helpers--Carpenters,0
+Helpers--Electricians,0
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",0
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0
+Helpers--Roofers,0
+"Helpers, Construction Trades, All Other",0
+Construction and Building Inspectors,0
+Elevator and Escalator Installers and Repairers,0
+Fence Erectors,0
+Hazardous Materials Removal Workers,0
+Highway Maintenance Workers,0
+Rail-Track Laying and Maintenance Equipment Operators,0
+Septic Tank Servicers and Sewer Pipe Cleaners,0
+Segmental Pavers,0
+"Construction and Related Workers, All Other",0
+"Derrick Operators, Oil and Gas",0
+"Rotary Drill Operators, Oil and Gas",0
+"Service Unit Operators, Oil and Gas",0
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",0
+"Earth Drillers, Except Oil and Gas",0
+"Explosives Workers, Ordnance Handling Experts, and Blasters",0
+Continuous Mining Machine Operators,0
+"Roof Bolters, Mining",0
+"Loading and Moving Machine Operators, Underground Mining",0
+"Underground Mining Machine Operators, All Other",0
+"Rock Splitters, Quarry",0
+"Roustabouts, Oil and Gas",0
+Helpers--Extraction Workers,0
+"Extraction Workers, All Other",0
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0
+"Computer, Automated Teller, and Office Machine Repairers",0
+"Radio, Cellular, and Tower Equipment Installers and Repairers",0
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",0
+Avionics Technicians,0
+"Electric Motor, Power Tool, and Related Repairers",0
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",0
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0
+"Electronic Equipment Installers and Repairers, Motor Vehicles",0
+Audiovisual Equipment Installers and Repairers,0
+Security and Fire Alarm Systems Installers,0
+Aircraft Mechanics and Service Technicians,0
+Automotive Body and Related Repairers,0
+Automotive Glass Installers and Repairers,0
+Automotive Service Technicians and Mechanics,0
+Bus and Truck Mechanics and Diesel Engine Specialists,0
+Farm Equipment Mechanics and Service Technicians,0
+"Mobile Heavy Equipment Mechanics, Except Engines",0
+Rail Car Repairers,0
+Motorboat Mechanics and Service Technicians,0
+Motorcycle Mechanics,0
+Outdoor Power Equipment and Other Small Engine Mechanics,0
+Bicycle Repairers,0
+Recreational Vehicle Service Technicians,0
+Tire Repairers and Changers,0
+Mechanical Door Repairers,0
+"Control and Valve Installers and Repairers, Except Mechanical Door",0
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0
+Home Appliance Repairers,0
+Industrial Machinery Mechanics,0
+"Maintenance Workers, Machinery",0
+Millwrights,0
+"Refractory Materials Repairers, Except Brickmasons",0
+Electrical Power-Line Installers and Repairers,0
+Telecommunications Line Installers and Repairers,0
+Camera and Photographic Equipment Repairers,0
+Medical Equipment Repairers,0
+Musical Instrument Repairers and Tuners,0
+Watch and Clock Repairers,0
+"Precision Instrument and Equipment Repairers, All Other",0
+"Maintenance and Repair Workers, General",0
+Wind Turbine Service Technicians,0
+"Coin, Vending, and Amusement Machine Servicers and Repairers",0
+Commercial Divers,0
+Locksmiths and Safe Repairers,0
+Manufactured Building and Mobile Home Installers,0
+Riggers,0
+Signal and Track Switch Repairers,0
+"Helpers--Installation, Maintenance, and Repair Workers",0
+"Installation, Maintenance, and Repair Workers, All Other",0
+First-Line Supervisors of Production and Operating Workers,0
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0
+"Coil Winders, Tapers, and Finishers",0
+Electrical and Electronic Equipment Assemblers,0
+Electromechanical Equipment Assemblers,0
+Engine and Other Machine Assemblers,0
+Structural Metal Fabricators and Fitters,0
+Fiberglass Laminators and Fabricators,0
+Timing Device Assemblers and Adjusters,0
+Team Assemblers,0
+"Assemblers and Fabricators, All Other",0
+Bakers,0
+Butchers and Meat Cutters,0
+"Meat, Poultry, and Fish Cutters and Trimmers",0
+Slaughterers and Meat Packers,0
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0
+Food Batchmakers,0
+Food Cooking Machine Operators and Tenders,0
+"Food Processing Workers, All Other",0
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0
+Machinists,0
+Metal-Refining Furnace Operators and Tenders,0
+"Pourers and Casters, Metal",0
+"Model Makers, Metal and Plastic",0
+"Patternmakers, Metal and Plastic",0
+Foundry Mold and Coremakers,0
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0
+Tool and Die Makers,0
+"Welders, Cutters, Solderers, and Brazers",0
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0
+"Layout Workers, Metal and Plastic",0
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",0
+"Tool Grinders, Filers, and Sharpeners",0
+"Metal Workers and Plastic Workers, All Other",0
+Prepress Technicians and Workers,0
+Printing Press Operators,0
+Print Binding and Finishing Workers,0
+Laundry and Dry-Cleaning Workers,0
+"Pressers, Textile, Garment, and Related Materials",0
+Sewing Machine Operators,0
+Shoe and Leather Workers and Repairers,0
+Shoe Machine Operators and Tenders,0
+"Sewers, Hand",0
+"Tailors, Dressmakers, and Custom Sewers",0
+Textile Bleaching and Dyeing Machine Operators and Tenders,0
+"Textile Cutting Machine Setters, Operators, and Tenders",0
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",0
+Fabric and Apparel Patternmakers,0
+Upholsterers,0
+"Textile, Apparel, and Furnishings Workers, All Other",0
+Cabinetmakers and Bench Carpenters,0
+Furniture Finishers,0
+"Model Makers, Wood",0
+"Patternmakers, Wood",0
+"Sawing Machine Setters, Operators, and Tenders, Wood",0
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0
+"Woodworkers, All Other",0
+Nuclear Power Reactor Operators,0
+Power Distributors and Dispatchers,0
+Power Plant Operators,0
+Stationary Engineers and Boiler Operators,0
+Water and Wastewater Treatment Plant and System Operators,0
+Chemical Plant and System Operators,0
+Gas Plant Operators,0
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0
+"Plant and System Operators, All Other",0
+Chemical Equipment Operators and Tenders,0
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0
+"Grinding and Polishing Workers, Hand",0
+"Mixing and Blending Machine Setters, Operators, and Tenders",0
+"Cutters and Trimmers, Hand",0
+"Cutting and Slicing Machine Setters, Operators, and Tenders",0
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0
+"Inspectors, Testers, Sorters, Samplers, and Weighers",0
+Jewelers and Precious Stone and Metal Workers,0
+Dental Laboratory Technicians,0
+Medical Appliance Technicians,0
+Ophthalmic Laboratory Technicians,0
+Packaging and Filling Machine Operators and Tenders,0
+"Painting, Coating, and Decorating Workers",0
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0
+Semiconductor Processing Technicians,0
+Photographic Process Workers and Processing Machine Operators,0
+Computer Numerically Controlled Tool Operators,0
+Computer Numerically Controlled Tool Programmers,0
+Adhesive Bonding Machine Operators and Tenders,0
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0
+Cooling and Freezing Equipment Operators and Tenders,0
+Etchers and Engravers,0
+"Molders, Shapers, and Casters, Except Metal and Plastic",0
+"Paper Goods Machine Setters, Operators, and Tenders",0
+Tire Builders,0
+Helpers--Production Workers,0
+"Production Workers, All Other",0
+Aircraft Cargo Handling Supervisors,0
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",0
+First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0
+First-Line Supervisors of Passenger Attendants,0
+"First-Line Supervisors of Transportation Workers, All Other",0
+"Airline Pilots, Copilots, and Flight Engineers",0
+Commercial Pilots,0
+Air Traffic Controllers,0
+Airfield Operations Specialists,0
+Flight Attendants,0
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0
+Driver/Sales Workers,0
+Heavy and Tractor-Trailer Truck Drivers,0
+Light Truck Drivers,0
+"Bus Drivers, School",0
+"Bus Drivers, Transit and Intercity",0
+Shuttle Drivers and Chauffeurs,0
+Taxi Drivers,0
+"Motor Vehicle Operators, All Other",0
+Locomotive Engineers,0
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",0
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",0
+Railroad Conductors and Yardmasters,0
+Subway and Streetcar Operators,0
+"Rail Transportation Workers, All Other",0
+Sailors and Marine Oilers,0
+"Captains, Mates, and Pilots of Water Vessels",0
+Motorboat Operators,0
+Ship Engineers,0
+Bridge and Lock Tenders,0
+Parking Attendants,0
+Automotive and Watercraft Service Attendants,0
+Aircraft Service Attendants,0
+Traffic Technicians,0
+Transportation Inspectors,0
+Passenger Attendants,0
+"Transportation Workers, All Other",0
+Conveyor Operators and Tenders,0
+Crane and Tower Operators,0
+Dredge Operators,0
+Hoist and Winch Operators,0
+Industrial Truck and Tractor Operators,0
+Cleaners of Vehicles and Equipment,0
+"Laborers and Freight, Stock, and Material Movers, Hand",0
+Machine Feeders and Offbearers,0
+"Packers and Packagers, Hand",0
+Stockers and Order Fillers,0
+Gas Compressor and Gas Pumping Station Operators,0
+"Pump Operators, Except Wellhead Pumpers",0
+Wellhead Pumpers,0
+Refuse and Recyclable Material Collectors,0
+"Tank Car, Truck, and Ship Loaders",0
+"Material Moving Workers, All Other",0
+Air Crew Officers,0
+Aircraft Launch and Recovery Officers,0
+Armored Assault Vehicle Officers,0
+Artillery and Missile Officers,0
+Command and Control Center Officers,0
+Infantry Officers,0
+Special Forces Officers,0
+"Military Officer Special and Tactical Operations Leaders, All Other",0
+First-Line Supervisors of Air Crew Members,0
+First-Line Supervisors of Weapons Specialists/Crew Members,0
+First-Line Supervisors of All Other Tactical Operations Specialists,0
+Air Crew Members,0
+Aircraft Launch and Recovery Specialists,0
+Armored Assault Vehicle Crew Members,0
+Artillery and Missile Crew Members,0
+Command and Control Center Specialists,0
+Infantry,0
+Special Forces,0
+"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",0
