@@ -47,9 +47,9 @@ Cost Estimators,0
 Human Resources Specialists,0
 Farm Labor Contractors,0
 Labor Relations Specialists,0
-Logisticians,0
-Project Management Specialists,0
-Management Analysts,0
+Logisticians,1
+Project Management Specialists,1
+Management Analysts,1
 "Meeting, Convention, and Event Planners",0
 Fundraisers,0
 "Compensation, Benefits, and Job Analysis Specialists",0
@@ -61,7 +61,7 @@ Appraisers of Personal and Business Property,0
 Appraisers and Assessors of Real Estate,0
 Budget Analysts,0
 Credit Analysts,0
-Financial and Investment Analysts,0
+Financial and Investment Analysts,1
 Personal Financial Advisors,0
 Insurance Underwriters,0
 Financial Risk Specialists,0
@@ -149,18 +149,18 @@ Materials Scientists,1
 "Geoscientists, Except Hydrologists and Geographers",1
 Hydrologists,1
 "Physical Scientists, All Other",1
-Economists,0
+Economists,1
 Survey Researchers,0
 Industrial-Organizational Psychologists,0
 Clinical and Counseling Psychologists,0
 School Psychologists,0
 "Psychologists, All Other",0
-Sociologists,0
+Sociologists,1
 Urban and Regional Planners,0
 Anthropologists and Archeologists,0
 Geographers,0
 Historians,0
-Political Scientists,0
+Political Scientists,1
 "Social Scientists and Related Workers, All Other",0
 Agricultural Technicians,0
 Food Science Technicians,0
@@ -297,7 +297,7 @@ Broadcast Announcers and Radio Disc Jockeys,0
 "News Analysts, Reporters, and Journalists",0
 Public Relations Specialists,0
 Editors,0
-Technical Writers,0
+Technical Writers,1
 Writers and Authors,0
 Interpreters and Translators,0
 Court Reporters and Simultaneous Captioners,0
